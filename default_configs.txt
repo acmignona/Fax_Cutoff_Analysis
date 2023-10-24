@@ -1,0 +1,5 @@
+FAX_DIRECTORY:C:\Your\Path\Here\testing
+LOG_DIRECTORY:C:\Your\Path\Here\testing\z.report
+CTL_DIRECTORY:C:\Your\Path\Here\ctl
+DAYS_BACK:30
+CUSTOM_CTL_FIELD:FullCSID:
