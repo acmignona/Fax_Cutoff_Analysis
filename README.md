@@ -25,6 +25,8 @@ While cutoff faxes can be an annoying issue for a sender, usually a sender can s
 
 ## Requirements
 - This program was made to interface with Zetafax Server fax files: .tif iamges and .ctl meta data files. While this program can analyze images from other files, it has not been tested to pull transmission data from corresponding meta data files that other faxing solutions might use. 
+  - Example files have been provided within the .\testing folder. 
 - This program requires that you store your fax images within a centralized folder. This can easily be achieved via a PowerShell script/Batch file
+  - Example files have been provided within the .\testing folder.  
 - This program has only been tested on Windows machines.
 
